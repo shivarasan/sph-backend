@@ -1,8 +1,9 @@
-#development
+# development
 
 yarn install
+
 yarn start
 
-#test
+# test
 
 yarn test
